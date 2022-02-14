@@ -1,4 +1,4 @@
-# wnm617_AdvnceMobileTech
+# wnm617_AdvanceMobileTech
 
 Website Link: https://crudacreativeart.tech/aau/wnm617/maricel.cruda/index.html
 
